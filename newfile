@@ -1,3 +1,8 @@
 lk sad fksad nkfansdk nkdsafds
 adding a line
+<<<<<<< HEAD
 added another line
+=======
+added another line
+added third line
+>>>>>>> 4e098c4 (added lines)
